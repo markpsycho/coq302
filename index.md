@@ -16,7 +16,7 @@
 ### 2. Aditi Narware: 2015MT10586
 ### 3. Abhilash Soni: 2015EE10422
 ## Link to slides
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/XR7Ev14vUh8/0.jpg)](https://docs.google.com/presentation/d/1LPxi-sep64JdeGBQsRpxiqZZG6NhRHgCSeojZ644EeI/edit?usp=sharing)
+[![IMAGE ALT TEXT HERE]https://cdn.lynda.com/course/440957/440957-636402118033649831-16x9.jpg](https://docs.google.com/presentation/d/1LPxi-sep64JdeGBQsRpxiqZZG6NhRHgCSeojZ644EeI/edit?usp=sharing)
 ## Watch the Video
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/XR7Ev14vUh8/0.jpg)](https://www.youtube.com/watch?v=XR7Ev14vUh8)
 
