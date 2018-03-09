@@ -1,12 +1,17 @@
 # Presentation On
 # A DOMAIN SPECIFIC APPROACH TO HIGH PERFORMANCE HETEROGENEOUS COMPUTING
 # Authors -
-# Gordon Inggs, Student Member, IEEE, David B. Thomas, Member, IEEE, and Wayne Luk, Fellow, IEEE
+## Gordon Inggs, Student Member, IEEE, David B. Thomas, Member, IEEE, and Wayne Luk, Fellow, IEEE
 # Presenters :
 ## 1. Raghav Garg: 2015CS10246
 ## 2. Sanket Sanjay Dhakate: 2015CS10255
 ## 3. Shiv Kumar Markam: 2015CS10258
 ## 4. Mohammad Wasih: 2015CS10341
+# 
+# List of attendees
+# 1. Mohammad Ali Khan: 2015EE30521
+# 2. Aditi Narware: 2015MT10586
+# 3. Abhilash Soni: 2015EE10422
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/XR7Ev14vUh8/0.jpg)](https://www.youtube.com/watch?v=XR7Ev14vUh8)
 
