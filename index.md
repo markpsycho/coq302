@@ -1,10 +1,10 @@
 # Presentation On
-## A DOMAIN SPECIFIC APPROACH TO HIGH PERFORMANCE HETEROGENEOUS COMPUTING
+# A DOMAIN SPECIFIC APPROACH TO HIGH PERFORMANCE HETEROGENEOUS COMPUTING
 # Presenters :
-# 1. Raghav Garg: 2015CS10246
-# 2. Sanket Sanjay Dhakate: 2015CS10255
-# 3. Shiv Kumar Markam: 2015CS10258
-# 4. Mohammad Wasih: 2015CS10341
+## 1. Raghav Garg: 2015CS10246
+## 2. Sanket Sanjay Dhakate: 2015CS10255
+## 3. Shiv Kumar Markam: 2015CS10258
+## 4. Mohammad Wasih: 2015CS10341
 
 
 ### Markdown
