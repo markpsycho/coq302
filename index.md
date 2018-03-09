@@ -1,8 +1,11 @@
-## Welcome to GitHub Pages
+# Presentation On
+## A DOMAIN SPECIFIC APPROACH TO HIGH PERFORMANCE HETEROGENEOUS COMPUTING
+# Presenters :
+#1. Raghav Garg: 2015CS10246
+#2. Sanket Sanjay Dhakate: 2015CS10255
+#3. Shiv Kumar Markam: 2015CS10258
+#4. Mohammad Wasih: 2015CS10341
 
-You can use the [editor on GitHub](https://github.com/markpsycho/coq302/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
