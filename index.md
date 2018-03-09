@@ -17,7 +17,7 @@
 ### 3. Abhilash Soni: 2015EE10422
 ##
 [Link to Paper](http://ieeexplore.ieee.org/document/7465804/)
-#\ 
+## .
 [Link to slides](https://docs.google.com/presentation/d/1LPxi-sep64JdeGBQsRpxiqZZG6NhRHgCSeojZ644EeI/edit?usp=sharing)
 
 ## Watch the Video
