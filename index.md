@@ -21,5 +21,4 @@
 
 [Link to slides](https://docs.google.com/presentation/d/1LPxi-sep64JdeGBQsRpxiqZZG6NhRHgCSeojZ644EeI/edit?usp=sharing)
 
-## Watch the Video
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/XR7Ev14vUh8/0.jpg)](https://www.youtube.com/watch?v=XR7Ev14vUh8)
+[Watch the Video](https://l.messenger.com/l.php?u=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F1p0UhdOzLPukrB-bYZmb2-ZRleqgj2w5w%2Fview%3Fusp%3Dsharing&h=ATNs_x70NI0AOoV50Sg-MHLJb5anS9LGdDPovlgtm2w5oObWpWRtEcOp6tkrWt9RpSFN_NIazYqhkAIRdwmjvNzV53-5hPxZ2CcduEU9NO3qC_3fzw1hKA)
