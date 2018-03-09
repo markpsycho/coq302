@@ -22,5 +22,5 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-https://www.youtube.com/watch?v=SbRPW1UO244(url) and ![Image](src)
+[Link](https://www.youtube.com/watch?v=SbRPW1UO244) and ![Image](src)
 ```
