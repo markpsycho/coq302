@@ -15,7 +15,7 @@
 ### 1. Mohammad Ali Khan: 2015EE30521
 ### 2. Aditi Narware: 2015MT10586
 ### 3. Abhilash Soni: 2015EE10422
-##
+
 [Link to Paper](http://ieeexplore.ieee.org/document/7465804/)
 
 [Link to slides](https://docs.google.com/presentation/d/1LPxi-sep64JdeGBQsRpxiqZZG6NhRHgCSeojZ644EeI/edit?usp=sharing)
