@@ -9,9 +9,9 @@
 ## 4. Mohammad Wasih: 2015CS10341
 # 
 # List of attendees
-# 1. Mohammad Ali Khan: 2015EE30521
-# 2. Aditi Narware: 2015MT10586
-# 3. Abhilash Soni: 2015EE10422
+### 1. Mohammad Ali Khan: 2015EE30521
+### 2. Aditi Narware: 2015MT10586
+### 3. Abhilash Soni: 2015EE10422
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/XR7Ev14vUh8/0.jpg)](https://www.youtube.com/watch?v=XR7Ev14vUh8)
 
