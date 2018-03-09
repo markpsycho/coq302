@@ -1,10 +1,10 @@
 # Presentation On
 ## A DOMAIN SPECIFIC APPROACH TO HIGH PERFORMANCE HETEROGENEOUS COMPUTING
 # Presenters :
-#1. Raghav Garg: 2015CS10246
-#2. Sanket Sanjay Dhakate: 2015CS10255
-#3. Shiv Kumar Markam: 2015CS10258
-#4. Mohammad Wasih: 2015CS10341
+# 1. Raghav Garg: 2015CS10246
+# 2. Sanket Sanjay Dhakate: 2015CS10255
+# 3. Shiv Kumar Markam: 2015CS10258
+# 4. Mohammad Wasih: 2015CS10341
 
 
 ### Markdown
@@ -13,10 +13,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
-
-# COQ302 Presentation
-## Presented by - 
-### Header 3
 
 - Bulleted
 - List
