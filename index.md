@@ -17,24 +17,8 @@
 ### 3. Abhilash Soni: 2015EE10422
 ##
 [Link to Paper](http://ieeexplore.ieee.org/document/7465804/)
-## 
+.\ 
 [Link to slides](https://docs.google.com/presentation/d/1LPxi-sep64JdeGBQsRpxiqZZG6NhRHgCSeojZ644EeI/edit?usp=sharing)
 
 ## Watch the Video
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/XR7Ev14vUh8/0.jpg)](https://www.youtube.com/watch?v=XR7Ev14vUh8)
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-```
