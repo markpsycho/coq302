@@ -21,5 +21,5 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-[![IMAGE ALT TEXT HERE](https://www.img.youtube.com/vi/XR7Ev14vUh8/0.jpg)](https://www.youtube.com/watch?v=XR7Ev14vUh8)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/XR7Ev14vUh8/0.jpg)](https://www.youtube.com/watch?v=XR7Ev14vUh8)
 ```
