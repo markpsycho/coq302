@@ -15,6 +15,7 @@
 ### 1. Mohammad Ali Khan: 2015EE30521
 ### 2. Aditi Narware: 2015MT10586
 ### 3. Abhilash Soni: 2015EE10422
+### 4. Manish Yadav: 2015CS10460
 
 [Link to Paper](http://ieeexplore.ieee.org/document/7465804/)
 
